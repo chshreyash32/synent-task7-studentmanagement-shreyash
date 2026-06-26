@@ -108,3 +108,32 @@ If you are using Visual Studio Code, the recommended settings are already provid
 
 This project is open source and available under the MIT License.
 
+## 📸 Project Screenshots
+
+### Main Menu
+
+![Main Menu](screenshots/main-menu.png)
+
+---
+
+### Add & View Students
+
+This screen demonstrates adding a new student and displaying all student records.
+
+![Add & View Students](screenshots/add-view-students.png)
+
+---
+
+### Update & Delete Student
+
+This screen demonstrates updating an existing student's details and deleting a student record.
+
+![Update & Delete Student](screenshots/update-delete-student.png)
+
+---
+
+### Search Student
+
+This screen demonstrates searching for a student using their Student ID.
+
+![Search Student](screenshots/search-student.png)
